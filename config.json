@@ -1,0 +1,12 @@
+{
+    "meta": {
+        "module": "emailrarse",
+        "uuid": 7851470,
+        "checksum": "v7thxm"
+    },
+    "settings": {
+        "retries": 1,
+        "enabled": false,
+        "mode": "production"
+    }
+}
